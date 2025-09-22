@@ -7,3 +7,4 @@ print("Name :",name,"/ Type ",type(name))
 print("age :",age,"/ Type ",type(age))
 print("Weight :",weight,"/ Type",type(weight))
 print("Is_student",is_student,"/ Type",type(is_student))
+
