@@ -1,5 +1,4 @@
 #prime numbers in a given range
-from turtledemo.penrose import start
 
 start=int(input("Enter start of range :"))
 end=int(input("Enter end of range :"))
